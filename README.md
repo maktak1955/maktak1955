@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & HPC
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞
-- 📫 How to reach me ...
+- 📫 How to reach me:  maktak1955@gmail.com
 
 <!---
 maktak1955/maktak1955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
